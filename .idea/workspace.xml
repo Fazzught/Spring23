@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished variable for unit 02.2">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished marketing for unit 02.3">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/salary.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MarketingKt">
+  <component name="RunManager" selected="Kotlin.SalaryKt">
     <configuration name="HelpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelpKt" />
       <module name="spring23" />
@@ -58,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit01.MainKt" />
+    <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MarketingKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MarketingKt" />
+    <configuration name="SalaryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalaryKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SalaryKt" />
         <item itemvalue="Kotlin.MarketingKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.VarSamplesKt" />
         <item itemvalue="Kotlin.HelpKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,14 +153,22 @@
       <option name="project" value="LOCAL" />
       <updated>1676260393374</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished marketing for unit 02.3">
+      <created>1676263153040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676263153040</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a new project" />
     <MESSAGE value="Made changes" />
     <MESSAGE value="Finished variable for unit 02.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished variable for unit 02.2" />
+    <MESSAGE value="Finished marketing for unit 02.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished marketing for unit 02.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
