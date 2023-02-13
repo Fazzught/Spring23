@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished marketing for unit 02.5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/salesPredicition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/cookieCalories.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +50,9 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SalesPredicitionKt">
-    <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MarketingKt" />
+  <component name="RunManager" selected="Kotlin.CookieCaloriesKt">
+    <configuration name="CookieCaloriesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CookieCaloriesKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CookieCaloriesKt" />
         <item itemvalue="Kotlin.SalesPredicitionKt" />
         <item itemvalue="Kotlin.StarKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.SalaryKt" />
-        <item itemvalue="Kotlin.MarketingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676264910579</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Finished marketing for unit 02.5">
+      <created>1676265589350</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676265589350</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
