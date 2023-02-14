@@ -7,7 +7,7 @@ fun main() {
     var interest = readLine()!!
     print("Enter the number of times per year interest is compounded: ")
     var compounded = readLine()!!
-    print("Enter the number of years: ")
+    print("Enter the number of years interest is collected: ")
     var years = readLine()!!
 
     var p = principal.toDouble()
