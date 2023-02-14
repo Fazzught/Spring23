@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished marketing for unit 02.5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/compoundInterest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676266835672</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finished marketing for unit 02.5">
+      <created>1676353123999</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676353123999</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
