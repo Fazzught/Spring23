@@ -1,5 +1,3 @@
-import kotlin.math.*
-
 fun main() {
     print("Enter the principal amount of money deposited: ")
     var principal = readLine()!!
