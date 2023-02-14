@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished marketing for unit 02.5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/compoundInterest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/compoundnterest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,14 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StringManiKt">
+  <component name="RunManager" selected="Kotlin.CompoundnterestKt">
+    <configuration name="CompoundnterestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundnterestKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CookieCaloriesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CookieCaloriesKt" />
       <module name="spring23" />
@@ -76,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarKt" />
-      <module name="spring23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringManiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringManiKt" />
       <module name="spring23" />
@@ -92,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CompoundnterestKt" />
         <item itemvalue="Kotlin.StringManiKt" />
         <item itemvalue="Kotlin.CookieCaloriesKt" />
         <item itemvalue="Kotlin.SalaryKt" />
         <item itemvalue="Kotlin.SalesPredicitionKt" />
-        <item itemvalue="Kotlin.StarKt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676353123999</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Finished marketing for unit 02.5">
+      <created>1676353660970</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676353660970</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
