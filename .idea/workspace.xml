@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished marketing for unit 02.5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/cookieCalories.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/stringMani.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CookieCaloriesKt">
+  <component name="RunManager" selected="Kotlin.StringManiKt">
     <configuration name="CookieCaloriesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CookieCaloriesKt" />
       <module name="spring23" />
@@ -79,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="StringManiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManiKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringManiKt" />
         <item itemvalue="Kotlin.CookieCaloriesKt" />
+        <item itemvalue="Kotlin.SalaryKt" />
         <item itemvalue="Kotlin.SalesPredicitionKt" />
         <item itemvalue="Kotlin.StarKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.SalaryKt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676265589350</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Finished marketing for unit 02.5">
+      <created>1676266835672</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676266835672</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,14 +221,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt</url>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
