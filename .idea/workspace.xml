@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 02.9">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/romans.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/magicNumber.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RomansKt">
+  <component name="RunManager" selected="Kotlin.MagicNumberKt">
     <configuration name="CompoundInterestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompoundInterestKt" />
       <module name="spring23" />
@@ -69,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomansKt" />
+    <configuration name="MagicNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicNumberKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalaryKt" />
+    <configuration name="RomansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomansKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MagicNumberKt" />
         <item itemvalue="Kotlin.RomansKt" />
         <item itemvalue="Kotlin.CompoundInterestKt" />
         <item itemvalue="Kotlin.StringManiKt" />
         <item itemvalue="Kotlin.CookieCaloriesKt" />
-        <item itemvalue="Kotlin.SalaryKt" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676357345944</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Finished unit 02.9">
+      <created>1677342263640</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677342263640</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
