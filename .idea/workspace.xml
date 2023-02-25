@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 02.9" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 02.9">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/romans.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -50,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CompoundInterestKt">
+  <component name="RunManager" selected="Kotlin.RomansKt">
     <configuration name="CompoundInterestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompoundInterestKt" />
       <module name="spring23" />
@@ -65,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalaryKt" />
+    <configuration name="RomansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomansKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesPredicitionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalesPredicitionKt" />
+    <configuration name="SalaryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalaryKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RomansKt" />
         <item itemvalue="Kotlin.CompoundInterestKt" />
         <item itemvalue="Kotlin.StringManiKt" />
         <item itemvalue="Kotlin.CookieCaloriesKt" />
         <item itemvalue="Kotlin.SalaryKt" />
-        <item itemvalue="Kotlin.SalesPredicitionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676357172517</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Finished unit 02.9">
+      <created>1676357345944</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676357345944</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
