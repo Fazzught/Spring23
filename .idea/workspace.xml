@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 03.4">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/nameSort.kt" afterDir="false" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 03.5">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/runRace.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit03/nameSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/nameSort.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NameSortKt">
+  <component name="RunManager" selected="Kotlin.RunRaceKt">
     <configuration name="BodyMassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyMassKt" />
       <module name="spring23" />
@@ -83,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomansKt" />
+    <configuration name="RunRaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunRaceKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RunRaceKt" />
         <item itemvalue="Kotlin.NameSortKt" />
         <item itemvalue="Kotlin.MassWeightKt" />
         <item itemvalue="Kotlin.BodyMassKt" />
         <item itemvalue="Kotlin.MagicNumberKt" />
-        <item itemvalue="Kotlin.RomansKt" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677346848445</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Finished unit 03.5">
+      <created>1677348220579</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1677348220579</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,7 +291,8 @@
     <MESSAGE value="Finished unit 03.2" />
     <MESSAGE value="Finished unit 03.3" />
     <MESSAGE value="Finished unit 03.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 03.4" />
+    <MESSAGE value="Finished unit 03.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 03.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
