@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 03.3" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 03.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/unit03/massWeight.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/unit03/massWeight.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BodyMassKt">
+  <component name="RunManager" selected="Kotlin.MassWeightKt">
     <configuration name="BodyMassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyMassKt" />
       <module name="spring23" />
@@ -89,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.BodyMassKt" />
         <item itemvalue="Kotlin.MassWeightKt" />
+        <item itemvalue="Kotlin.BodyMassKt" />
         <item itemvalue="Kotlin.MagicNumberKt" />
         <item itemvalue="Kotlin.RomansKt" />
         <item itemvalue="Kotlin.CompoundInterestKt" />
@@ -253,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677344853774</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Finished unit 03.3">
+      <created>1677345248157</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677345248157</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

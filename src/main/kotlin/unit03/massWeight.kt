@@ -1,14 +1,13 @@
 fun main() {
-    print("Enter weight in pounds: ")
-    var lbs = readLine()!!.toDouble()
-    print("Enter your height in inches: ")
-    var ht = readLine()!!.toDouble()
-    var BMI = (lbs*703)/ Math.pow(ht.toDouble(), 2.toDouble())
+    print("Enter mass of object in kilograms: ")
+    var mass = readLine()!!.toDouble()
 
-    if (BMI > 25)
-        println("This person is overweight")
-    else if (BMI < 18.5)
-        println("This person is underweight")
+    var weight = mass * 9.8
+
+    if (weight > 1000)
+        println("This object is too heavy")
+    else if (weight < 10)
+        println("This object is too light")
     else
-        println("This person is the optimal weight")
+        println("This object weighs " + weight + " newtons.")
 }
