@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.3">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/guessGame.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -333,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679206895423</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Finished unit 04.5">
+      <created>1679210740120</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679210740120</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -351,7 +355,8 @@
     <MESSAGE value="Finished unit 04.1" />
     <MESSAGE value="Finished unit 04.2" />
     <MESSAGE value="Finished unit 04.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 04.3" />
+    <MESSAGE value="Finished unit 04.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 04.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
