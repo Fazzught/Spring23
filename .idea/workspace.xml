@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.5" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.5">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/guessingGamePlus.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.GuessGameKt">
+  <component name="RunManager" selected="Kotlin.GuessingGamePlusKt">
     <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarChartKt" />
       <module name="spring23" />
@@ -59,8 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessGameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuessGameKt" />
+    <configuration name="GuessingGameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingGameKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGamePlusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingGamePlusKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumNumbersKt" />
-      <module name="spring23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.GuessGameKt" />
+        <item itemvalue="Kotlin.GuessingGamePlusKt" />
+        <item itemvalue="Kotlin.GuessingGameKt" />
         <item itemvalue="Kotlin.BarChartKt" />
         <item itemvalue="Kotlin.PopulationKt" />
         <item itemvalue="Kotlin.LetterCounterKt" />
-        <item itemvalue="Kotlin.SumNumbersKt" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679210740120</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Finished unit 04.5">
+      <created>1679210829728</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679210829728</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
