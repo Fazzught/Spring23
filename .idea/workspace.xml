@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 03.7">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/sumNumbers.kt" afterDir="false" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.1">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/letterCounter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SumNumbersKt">
+  <component name="RunManager" selected="Kotlin.LetterCounterKt">
     <configuration name="BankChargesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankChargesKt" />
       <module name="spring23" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameSortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NameSortKt" />
+    <configuration name="LetterCounterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterCounterKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LetterCounterKt" />
         <item itemvalue="Kotlin.SumNumbersKt" />
         <item itemvalue="Kotlin.BankChargesKt" />
         <item itemvalue="Kotlin.RunRaceKt" />
         <item itemvalue="Kotlin.RestaurantSelectorKt" />
-        <item itemvalue="Kotlin.NameSortKt" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677472860988</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Finished unit 04.1">
+      <created>1679199897291</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679199897291</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +327,8 @@
     <MESSAGE value="Finished unit 03.4" />
     <MESSAGE value="Finished unit 03.5" />
     <MESSAGE value="Finished unit 03.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 03.7" />
+    <MESSAGE value="Finished unit 04.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 04.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
