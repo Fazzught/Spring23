@@ -16,13 +16,13 @@ fun main () {
                 println("Too high, try again.")
                 userGuess = null
             } else if (userGuess != null && userGuess < randoNum) {
-                println("Too low, try agan.")
+                println("Too low, try again.")
                 userGuess = null
             } else {
                 println("Congratulations! You got it the number was $randoNum and you got it in $counter tries.")
             }
         } catch (e: Exception){
-            println("Invalid input. Please enter a number between 1 and 50.")
+            println("Invalid input. Please enter a number between 0 and 50.")
 
         }    }
 }
