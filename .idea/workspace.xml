@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Finished unit 04.6" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="Fixed a spelling error">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/primeTime.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.GuessingGamePlusKt">
+  <component name="RunManager" selected="Kotlin.PrimeTimeKt">
     <configuration name="BarChartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarChartKt" />
       <module name="spring23" />
@@ -73,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCounterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LetterCounterKt" />
-      <module name="spring23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PopulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PopulationKt" />
       <module name="spring23" />
@@ -87,13 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeTimeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeTimeKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PrimeTimeKt" />
         <item itemvalue="Kotlin.GuessingGamePlusKt" />
         <item itemvalue="Kotlin.GuessingGameKt" />
         <item itemvalue="Kotlin.BarChartKt" />
         <item itemvalue="Kotlin.PopulationKt" />
-        <item itemvalue="Kotlin.LetterCounterKt" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +354,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679214210920</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Finished unit 04.6">
+      <created>1679280907087</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679280907087</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Fixed a spelling error">
+      <created>1679280972086</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679280972086</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -371,7 +388,8 @@
     <MESSAGE value="Finished unit 04.3" />
     <MESSAGE value="Finished unit 04.5" />
     <MESSAGE value="Finished unit 04.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished unit 04.6" />
+    <MESSAGE value="Fixed a spelling error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed a spelling error" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
