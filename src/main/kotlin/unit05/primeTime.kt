@@ -14,7 +14,7 @@ fun isPrime(number: Int): Boolean {
 }
 
 fun main(){
-    println(isPrime(6))
-    println(isPrime(13))
-    println(isPrime(8893))
+    println("6 is a prime number: " + isPrime(6))
+    println("13 is a prime number: " + isPrime(13))
+    println("8893 is a prime number: " + isPrime(8893))
 }
