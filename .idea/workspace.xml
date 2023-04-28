@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="commiting 5.5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/stockProfit.kt" afterDir="false" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="commiting 5.6">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/rockPaperScissors.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StockProfitKt">
+  <component name="RunManager" selected="Kotlin.RockPaperScissorsKt">
     <configuration name="CelsiusTableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CelsiusTableKt" />
       <module name="spring23" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunctionKt" />
+    <configuration name="RockPaperScissorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RockPaperScissorsKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RockPaperScissorsKt" />
         <item itemvalue="Kotlin.StockProfitKt" />
         <item itemvalue="Kotlin.CelsiusTableKt" />
         <item itemvalue="Kotlin.FallingDistanceKt" />
         <item itemvalue="Kotlin.PriceCalculatorKt" />
-        <item itemvalue="Kotlin.RecursiveFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682469542156</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="commiting 5.6">
+      <created>1682473283194</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1682473283194</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -431,7 +438,8 @@
     <MESSAGE value="commiting 5.2 and minor edit to 5.1" />
     <MESSAGE value="commiting 5.3" />
     <MESSAGE value="commiting 5.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commiting 5.5" />
+    <MESSAGE value="commiting 5.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting 5.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
