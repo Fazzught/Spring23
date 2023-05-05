@@ -28,7 +28,6 @@ fun main(){
                 "s" -> current_room_index = room_list[current_room_index][3] as Int
                 "w" -> current_room_index = room_list[current_room_index][4] as Int
             }
-
             if (current_room_index == -1) {
                 println("Can't go that way.")
                 current_room_index = copy_current_room_index
@@ -42,9 +41,5 @@ fun main(){
             done = true
             print("Thanks for playing.")
         }
-
-
-
     }
-
 }
