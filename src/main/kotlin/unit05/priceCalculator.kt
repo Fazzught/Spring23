@@ -30,5 +30,5 @@ fun main (){
 
 }
 fun calculateRetail(wholesale: Double, markup: Double): Double {
-    return wholesale + wholesale*(markup/100)
+    return wholesale + (wholesale * (markup/100))
 }

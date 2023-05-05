@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="commiting 6.1">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit06/magicEight.kt" afterDir="false" />
+    <list default="true" id="345d1ba3-8e2a-4649-9ed9-ddc6b2ce2213" name="Changes" comment="commiting 6.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,16 +56,16 @@
       <recent name="C:\Users\Admin\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MagicEightKt">
-    <configuration name="CelsiusTableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CelsiusTableKt" />
+  <component name="RunManager" selected="Kotlin.PriceCalculatorKt">
+    <configuration name="MagicEightKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicEightKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicEightKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MagicEightKt" />
+    <configuration name="PriceCalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriceCalculatorKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PriceCalculatorKt" />
         <item itemvalue="Kotlin.MagicEightKt" />
         <item itemvalue="Kotlin.TextAdventureKt" />
         <item itemvalue="Kotlin.RockPaperScissorsKt" />
         <item itemvalue="Kotlin.StockProfitKt" />
-        <item itemvalue="Kotlin.CelsiusTableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683257400171</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="commiting 6.2">
+      <created>1683260077598</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1683260077598</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,7 +467,8 @@
     <MESSAGE value="commiting 5.5" />
     <MESSAGE value="commiting 5.6" />
     <MESSAGE value="commiting 6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commiting 6.1" />
+    <MESSAGE value="commiting 6.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting 6.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
